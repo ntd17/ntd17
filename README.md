@@ -5,7 +5,7 @@
 Engenheiro de Software pela Univates, técnico em Contabilidade e Finanças, pós-graduando em
 Ciência de Dados e Analytics pela PUC-Rio.
 
-Desde 2021 analiso risco de crédito para aprovação de apólices e financiamentos imobiliários —
+Desde 2021 analiso risco de crédito para setor de seguros e imobiliário  —
 e construo os sistemas que sustentam essa análise. Não são duas carreiras: é a mesma. O que me
 interessa é o ponto onde o modelo encosta na decisão financeira, porque é ali que errar custa
 dinheiro de verdade.
