@@ -3,7 +3,7 @@
 **Data & Risk** — crédito, seguros e analytics financeiro.
 
 Engenheiro de Software pela Univates, técnico em Contabilidade e Finanças, pós-graduando em
-Ciência de Dados e Analytics pela PUC-Rio (média 9,84).
+Ciência de Dados e Analytics pela PUC-Rio.
 
 Desde 2021 analiso risco de crédito para aprovação de apólices e financiamentos imobiliários —
 e construo os sistemas que sustentam essa análise. Não são duas carreiras: é a mesma. O que me
